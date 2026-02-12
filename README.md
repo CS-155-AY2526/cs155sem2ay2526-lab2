@@ -3,6 +3,9 @@ cs155sem2ay2526-lab2
 
 There are several parts to this lab exercise, but you only need to submit once. 
 
+Use flex for this exercise.
+In your flex file, define WHITESPACE and PUNCTUATION using regular expressions (definitions provided below). 
+
 
 1. **lab2-part1** Write a simple C program, using flex, that will take as input a simple text file, and prints as
 output the number of words (word count) in the text file. A word is simply defined as a sequence of
